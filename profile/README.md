@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://github.com/octonary-robotics"><img alt="GitHub followers" src="https://img.shields.io/github/followers/octonary-robotics?style=for-the-badge&logo=github&logoColor=F4F3EF&label=Followers&labelColor=14171B&color=2A2F36"></a>
   <a href="[https://your-website]"><img alt="Website" src="https://img.shields.io/badge/Website-octonary-2A2F36?style=for-the-badge&labelColor=14171B"></a>
-  <a href="mailto:[hello@your-domain]"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-2A2F36?style=for-the-badge&labelColor=14171B"></a>
+  <a href="mailto:[octonary.robotics@yahoo.com]"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-2A2F36?style=for-the-badge&labelColor=14171B"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=octonary-robotics&label=Views&color=2A2F36&style=for-the-badge">
 </p>
 
@@ -43,28 +43,14 @@
   <img alt="01 About" src="https://raw.githubusercontent.com/octonary-robotics/.github/main/profile/assets/h01-light.svg" width="100%">
 </picture>
 
-**Octonary Robotics** builds **mechanical tentacles**. We break a tentacle down into eight geometric joints and design, drive and test each one in turn, so machines can extend, bend and grasp with the flexibility of a living limb.
+**Octonary Robotics** builds **mechanical tentacles**. We break a tentacle down into geometric joints and design, drive and test each one in turn, so machines can extend, bend and grasp with the flexibility of a living limb.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/octonary-robotics/.github/main/profile/assets/mark-dark.svg">
-  <img alt="The Octonary mark: eight segments, even gaps, a rightward curl and a hooked tip" src="https://raw.githubusercontent.com/octonary-robotics/.github/main/profile/assets/mark-light.svg" width="100%">
+  <img alt="The Octonary mark: Segments, even gaps, a rightward curl and a hooked tip" src="https://raw.githubusercontent.com/octonary-robotics/.github/main/profile/assets/mark-light.svg" width="100%">
 </picture>
 
-<details>
-<summary><b>Behind the name and the mark</b></summary>
-<br>
 
-**Octonary** means "relating to or based on the number eight"[^1]. The tentacle in our mark is built from eight geometric segments with even gaps between them, each one shorter than the last:
-
-$$
-L_n = L_1 \cdot 0.9^{\,n-1}, \qquad n = 1, 2, \dots, 8
-$$
-
-It rises from a flat base, curls to the right through roughly $275^\circ$, and ends in a tip that hooks back toward the stem: grasp, wrap, retract.
-
-</details>
-
-<br>
 
 <!-- ───────────────────────────── 02 Focus ───────────────────────────── -->
 
@@ -115,7 +101,7 @@ It rises from a flat base, curls to the right through roughly $275^\circ$, and e
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,py,ros,linux,arduino,raspberrypi,docker,git,githubactions,blender&theme=dark&perline=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,py,js,ros,pytorch,solidjs,arduino,docker,git,blender&theme=dark&perline=10">
     <img alt="C++ · Python · ROS · Linux · Arduino · Raspberry Pi · Docker · Git · GitHub Actions · Blender" src="https://skillicons.dev/icons?i=cpp,py,ros,linux,arduino,raspberrypi,docker,git,githubactions,blender&theme=light&perline=10">
   </picture>
 </p>
@@ -207,7 +193,7 @@ flowchart LR
 | Channel | Where to find us |
 |:---:|:---|
 | <img alt="Website" src="https://img.shields.io/badge/-Website-14171B?style=flat-square"> | [your-website] |
-| <img alt="Email" src="https://img.shields.io/badge/-Email-14171B?style=flat-square"> | [hello@your-domain] |
+| <img alt="Email" src="https://img.shields.io/badge/-Email-14171B?style=flat-square"> | octonary-robotics@yahoo.com |
 | <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-14171B?style=flat-square&logo=linkedin&logoColor=F4F3EF"> | [linkedin.com/company/…] |
 | <img alt="X" src="https://img.shields.io/badge/-X-14171B?style=flat-square&logo=x&logoColor=F4F3EF"> | [@your-handle] |
 
