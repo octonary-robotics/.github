@@ -193,7 +193,7 @@ flowchart LR
 | Channel | Where to find us |
 |:---:|:---|
 | <img alt="Website" src="https://img.shields.io/badge/-Website-14171B?style=flat-square"> | [your-website] |
-| <img alt="Email" src="https://img.shields.io/badge/-Email-14171B?style=flat-square"> | octonary-robotics@yahoo.com |
+| <img alt="Email" src="https://img.shields.io/badge/-Email-14171B?style=flat-square"> | octonary.robotics@yahoo.com |
 | <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-14171B?style=flat-square&logo=linkedin&logoColor=F4F3EF"> | [linkedin.com/company/…] |
 | <img alt="X" src="https://img.shields.io/badge/-X-14171B?style=flat-square&logo=x&logoColor=F4F3EF"> | [@your-handle] |
 
