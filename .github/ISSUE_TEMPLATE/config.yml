@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/orgs/octonary-robotics/discussions
+    about: Ask questions and discuss ideas with the community.
+  - name: Report a vulnerability or safety hazard
+    url: https://github.com/octonary-robotics/.github/blob/main/SECURITY.md
+    about: Please report security and safety issues privately, not as public issues.

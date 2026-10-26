@@ -1,0 +1,65 @@
+name: Hardware issue
+description: A mechanical, electrical or assembly problem with a tentacle or its components.
+title: "[Hardware]: "
+labels: ["hardware", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for physical problems: parts that break, bind, slip, overheat or don't fit.
+        **If the problem could injure someone, stop using the hardware and report it privately via SECURITY.md.**
+  - type: input
+    id: revision
+    attributes:
+      label: Hardware revision
+      placeholder: Rev B, 8-segment
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      multiple: true
+      options:
+        - Segment / joint
+        - Tendon / cable
+        - Actuator / motor
+        - Sensor
+        - Electronics / wiring
+        - Power
+        - Fasteners / assembly
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: segment
+    attributes:
+      label: Segment number(s)
+      description: Segments are numbered 1 (base) to 8 (tip).
+      placeholder: "3, 4"
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the problem, when it started and how often it occurs.
+    validations:
+      required: true
+  - type: textarea
+    id: conditions
+    attributes:
+      label: Operating conditions
+      description: Load, speed, duty cycle, temperature, firmware version …
+  - type: textarea
+    id: media
+    attributes:
+      label: Photos or video
+      description: Drag and drop images or short clips. They help a lot.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched existing issues and this has not been reported yet.
+          required: true
+        - label: This issue does not pose an immediate safety risk (otherwise use SECURITY.md).
+          required: true
