@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  <a href="https://octonary-robotics.github.io/">Engineering overview</a>
+  &nbsp;·&nbsp;
+  <a href="https://octonary-robotics.pages.dev/en/">Main website</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/orgs/octonary-robotics/repositories">Repositories</a>
   &nbsp;·&nbsp;
   <a href="mailto:octonary.robotics@yahoo.com">Contact</a>
@@ -104,3 +108,4 @@ For collaboration enquiries, use the contact address below.
 <p align="center">
   <a href="#top">Back to top</a>
 </p>
+
